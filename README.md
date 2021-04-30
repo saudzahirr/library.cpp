@@ -1,2 +1,2 @@
 # library_system
-Library Managment System is besed on object oriented programming in c++.
+Library Managment System is based on object oriented programming in c++.
